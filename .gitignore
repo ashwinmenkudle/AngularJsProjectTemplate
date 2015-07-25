@@ -2,11 +2,5 @@ build/
 app/components/
 coverage/
 node_modules/
-<<<<<<< HEAD
 logs/*
 !.gitkeep
-tmp
-.DS_Store
-.idea
-=======
->>>>>>> 81ecfed460cc862575871252b09a4883c5ec497a
