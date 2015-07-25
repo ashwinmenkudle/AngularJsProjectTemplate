@@ -1,6 +1,6 @@
 build/
-app/components/
-coverage/
-node_modules/
+WebContent/app/components/
+WebContent/coverage/
+WebContent/node_modules/
 logs/*
 !.gitkeep
