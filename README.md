@@ -5,7 +5,7 @@ Angular JS Template Project
 Running Tests
 --
 Start Karma Server  
-``AngularJsProjectTemplate\WebContent> karma start test\karma-conf.js``
+``AngularJsProjectTemplate\WebContent> karma start test\karma-conf.js``  
 Run Tests  
 ``AngularJsProjectTemplate\WebContent>karma run test\karma-conf.js``
 
