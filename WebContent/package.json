@@ -1,0 +1,25 @@
+{
+  "name": "AngularJsProjectTemplate",
+  "version": "1.0.0",
+  "devDependencies": {
+    "grunt": "*",
+    "grunt-cli": "*",
+    "grunt-contrib-jshint": "*",
+    "grunt-contrib-nodeunit": "*",
+    "grunt-contrib-uglify": "*",
+    "grunt-contrib-watch": "*",
+    "grunt-karma": "*",
+    "jasmine-core": "*",
+    "karma": "*",
+    "karma-chrome-launcher": "^0.2.0",
+    "karma-coverage": "^0.4.2",
+    "karma-firefox-launcher": "^0.1.6",
+    "karma-ie-launcher": "*",
+    "karma-jasmine": "*",
+    "karma-phantomjs-launcher": "*",
+    "karma-sauce-launcher": "*",
+    "karma-script-launcher": "*",
+    "karma-story-reporter": "*",
+    "phantomjs": "*"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "AngularProjectTemplate",
+  "version": "1.0.0",
+  "description": "This is Prototype project",
+  "main": "?",
+  "authors": [
+    "Ashwin"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular-mocks": "~1.4.3"
+  }
+}
